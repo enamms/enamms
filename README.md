@@ -1,6 +1,10 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Emman</h1>
 <h3 align="center">I like Game Development!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=enamms&label=Profile%20views&color=0e75b6&style=flat" alt="enamms" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enamms&theme=" alt="enamms" /></a> </p>
+
 - 🔭 I’m currently working on [Curio's Pages](https://github.com/T0ssed/Curios-Pages.git)
 
 
@@ -14,8 +18,16 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enamms&layout=compact&theme=" alt=enamms />
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=enamms&theme=onedark-duo" alt="enamms" /></p>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=enamms&show_icons=true&locale=en&theme=" alt="enamms" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/enamms">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enamms&theme=aura_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enamms&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enamms&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enamms&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enamms&theme=aura_dark" height="180em" />
+</div>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=enamms&theme=" alt="enamms" /></p>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
