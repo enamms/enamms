@@ -10,10 +10,8 @@
 
 ---
 
-### 🎮 My Vibe
-
 <p align="center">
-  <img src="enamms-space-shooter.gif" width="400"/>
+  <img src="enamms-space-shooter.gif" width="1000"/>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
