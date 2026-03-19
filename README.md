@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=GAME+DEVELOPER;PIXEL+ARTIST;INDIE+GAME+MAKER;INSERT+COIN+TO+CONTINUE..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=GAME+DEVELOPER;Game+Developer;INDIE+GAME+MAKER;INSERT+COIN+TO+CONTINUE..." alt="Typing SVG" />
 
 <br/>
 
@@ -36,13 +36,13 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ## 🎮 GAME JAM STATS
 
 <img src="https://raw.githubusercontent.com/enamms/enamms/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-</div>
+</div> -->
 
 ---
 
@@ -58,13 +58,13 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ## 🏆 ACHIEVEMENTS UNLOCKED
 
 <img src="https://github-profile-trophy.vercel.app/?username=enamms&theme=matrix&no-frame=true&column=4&margin-w=10&margin-h=10" />
 
-</div>
+</div> -->
 
 ---
 
