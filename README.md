@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=GAME+DEVELOPER;Game+Developer;INDIE+GAME+MAKER;INSERT+COIN+TO+CONTINUE..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=GAME+DEVELOPER;" alt="Typing SVG" />
 
 <br/>
 
