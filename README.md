@@ -8,7 +8,7 @@
 
 <div align="center">
 
-*Hi! I'm a game developer who loves bringing interactive worlds to life — from pixel art indie games to physics-driven engines. I build, ship, and play.*
+*Hi! I'm a game developer who loves bringing interactive worlds to life*
 
 </div>
 
@@ -66,12 +66,12 @@
 
 ## 🕹️ CURRENTLY PLAYING
 ```
-                                            ╔══════════════════════════════════════════════════════╗
-                                            ║  🎮  CURRENT BUILD:                                  ║
-                                            ║  🛠️  ENGINE:                                         ║
-                                            ║  🎨  STYLE:                                          ║
-                                            ║  📅  STATUS:                                         ║
-                                            ╚══════════════════════════════════════════════════════╝
+                                  ╔══════════════════════════════════════════════════════╗
+                                  ║  🎮  CURRENT BUILD:                                  ║
+                                  ║  🛠️  ENGINE:                                         ║
+                                  ║  🎨  STYLE:                                          ║
+                                  ║  📅  STATUS:                                         ║
+                                  ╚══════════════════════════════════════════════════════╝
 ```
 
 </div>
