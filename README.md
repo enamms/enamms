@@ -40,15 +40,13 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center"> -->
 
-## 📊 STATS SCREEN
+<!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=enamms&show_icons=true&theme=chartreuse-dark&title_color=39FF14&icon_color=39FF14&text_color=ffffff&bg_color=0d1117&border_color=39FF14&rank_icon=percentile" />
+&nbsp;&nbsp; -->
+<!-- <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enamms&layout=compact&theme=chartreuse-dark&title_color=39FF14&text_color=ffffff&bg_color=0d1117&border_color=39FF14" /> -->
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=enamms&show_icons=true&theme=chartreuse-dark&title_color=39FF14&icon_color=39FF14&text_color=ffffff&bg_color=0d1117&border_color=39FF14&rank_icon=percentile" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enamms&layout=compact&theme=chartreuse-dark&title_color=39FF14&text_color=ffffff&bg_color=0d1117&border_color=39FF14" />
-
-</div>
+<!-- </div> -->
 
 ---
 
@@ -62,7 +60,7 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ## 🕹️ CURRENTLY PLAYING
 ```
@@ -76,7 +74,7 @@
 
 </div>
 
----
+--- -->
 
 <div align="center">
 
@@ -86,8 +84,5 @@
 
 <br/>
 
-*— PRESS START —*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=enamms&color=39FF14&style=for-the-badge&label=PLAYERS+VISITED)
 
 </div>
